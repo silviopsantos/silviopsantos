@@ -2,7 +2,7 @@
 <h3 align="center">Engenheiro de Produção | Analista de Sistemas</h3>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silviopsantos&show_icons=true&locale=pt-br&theme=dracula" alt="silviopsantos" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=silviopsantos&&theme=dracula&locale=pt-br" alt="silviopsantos" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silviopsantos&show_icons=true&locale=pt-br&theme=dracula" alt="silviopsantos" /> </p>
 
 
 
