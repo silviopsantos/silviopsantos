@@ -1,12 +1,12 @@
 <h1 align="center">Olá 👋, Eu sou Silvio Santos</h1>
-<h3 align="center">Engenheiro de Produção | Analista de Sistemas</h3>
+<h3 align="center">Engenheiro de Produção | Ciêntista da Computação</h3>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=silviopsantos&show_icons=true&locale=pt-br&theme=dracula" alt="silviopsantos" /> </p>
 
 
 
-- 🔭 Atualmente estou trabalhando **Análise de Dados e Automação**
+- 🔭 Atualmente estou trabalhando **Desenvolvedor de Software**
 
 - 👯 Eu procuro colaborar em **Projetos de Análise de Dados, Ciência de Dados e Automação**
 
