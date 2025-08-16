@@ -6,7 +6,7 @@
 
 
 
-- 🔭 Atualmente estou trabalhando **Desenvolvedor de Software**
+- 🔭 Atualmente estou trabalhando como **Desenvolvedor de Software**
 
 - 👯 Eu procuro colaborar em **Projetos de Análise de Dados, Ciência de Dados e Automação**
 
